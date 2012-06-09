@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/configId"
+        android:title="@string/menu_config">
+    </item>
+    <item
+        android:id="@+id/clearId"
+        android:title="@string/menu_clear">
+    </item>
+    <item
+        android:id="@+id/saveId"
+        android:title="@string/menu_save">
+    </item>
+</menu>
